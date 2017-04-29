@@ -1,0 +1,17 @@
+body {
+	padding-top: 70px;
+}
+
+.tab {
+	border: 1px solid #337ab7;
+	width: 100%;
+}
+
+.tab tr,
+.tab tr td,
+.tab tbody{
+	border: 1px solid #337ab7;
+	width: 10%;
+	text-align: center;
+	height: 30px;
+}
